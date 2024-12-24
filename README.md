@@ -12,9 +12,9 @@ Este projeto é uma **Calculadora de Juros Compostos**. A calculadora permite ca
 ---
 
 ## Funcionalidades
-- Cálculo de juros compostos com valor inicial (principal), taxa de juros e tempo.
-- Exibição do valor final após os cálculos.
-- Entrada de dados de forma intuitiva com validação.
+1. Cálculo de juros compostos com valor inicial (principal), taxa de juros e tempo.
+2. Exibição do valor final após os cálculos.
+3. Entrada de dados de forma intuitiva com validação.
 
 ---
 
